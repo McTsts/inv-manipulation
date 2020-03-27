@@ -1,4 +1,4 @@
-# inv-manipulation
+# Inventory Manipulation
 Saves and restores a player inventory
 
 # Save Inventory
