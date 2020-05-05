@@ -1,5 +1,5 @@
 # Inventory Manipulation
-Saves and restores a player inventory
+Saves and restores a player inventory. Setup with: `function inv:setup`
 
 # Save Inventory
 `execute as @p run function inv:save`
